@@ -1,5 +1,6 @@
+import csv
 if __name__ == "__main__":
-    import csv
+
 
     #opening the supplied csv file in 'Read' mode
     with open('soccer_players.csv','r') as csvfile:
